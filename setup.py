@@ -28,7 +28,7 @@ setup(
     long_description_content_type='text/markdown',
 
     url='https://github.com/borry-dev/randomidentity',
-    download_url='https://github.com/borry-dev/randomidentity/archive/main.zip'
+    download_url='https://github.com/borry-dev/randomidentity/archive/main.zip',
 
     license='MIT License',
 
