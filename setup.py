@@ -9,7 +9,7 @@ from setuptools import setup
 :copyright: (c) 2021 borry-dev
 """
 
-version = '1.4'
+version = '2'
 
 with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
@@ -18,11 +18,10 @@ setup(
     name='randomidentity',
     version=version,
 
-    author='borry-dev',
+    author='Oleg',
 
     description=(
-        u'Python module for writing scripts for project management platform '
-        u'Club House (clubhouse.io API wrapper)'
+        u'Python module for outputting random people data for your projects'
     ),
     long_description=long_description,
     long_description_content_type='text/markdown',
@@ -33,7 +32,7 @@ setup(
     license='MIT License',
 
     packages=['randomidentity'],
-    install_requires=['random'],
+    install_requires=[],
 
     classifiers=[
         'License :: OSI Approved :: MIT License',

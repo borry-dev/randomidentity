@@ -1,1 +1,1 @@
-# RandomIdentityGenerator v1.4
+# RandomIdentityGenerator v2
