@@ -9,7 +9,7 @@ from setuptools import setup
 :copyright: (c) 2021 borry-dev
 """
 
-version = '2'
+version = '2.0.1'
 
 with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
