@@ -1,4 +1,4 @@
-# RandomIdentityGenerator v2
+# RandomIdentityGenerator v2.1
 
 __pip install randomidentity__
 
